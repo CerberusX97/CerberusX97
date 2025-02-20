@@ -1,3 +1,16 @@
+<a href="https://github.com/CerberusX97/CerberusX97_English" style="
+    display: inline-block;
+    padding: 10px 15px;
+    font-size: 16px;
+    color: white;
+    background-color: #007bff;
+    text-decoration: none;
+    border-radius: 5px;
+">
+   English
+</a>
+
+
 <h1>Vincent Bellemare <br/><a>Étudiant en génie logiciel</a></h1>
 
 <h2>👨‍💻 Projets de 4e session (En cours) :</h2>
@@ -30,5 +43,5 @@
 
 - <b>Introduction à la programmation avec Python</b>
   - Travail pratique 1 (Individuel) <a> Note : 99%</a>
-  - Travail pratique 1 (Équipe) <a> Note : 72%</a>
-  - Travail pratique 1 (Équipe) <a> Note : 65%</a>
+  - Travail pratique 2 (Équipe) <a> Note : 72%</a>
+  - Travail pratique 3 (Équipe) <a> Note : 65%</a>
