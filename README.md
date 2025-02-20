@@ -9,11 +9,11 @@
 <h2>👨‍💻 Projets de 3e session :</h2>
 
 - <b>Algorithmes et structures de données pour l'ingénierie (Individuel)</b>
-  - [Ordonnancement de processus](https://github.com/joshmadakor1/Algorithms-Practice) <a> Note : 96%</a>
-  - [Réseau IP](https://github.com/joshmadakor1/Algorithms-Practice) <a> Note : 92%</a>
-  - [Bottin téléphonique](https://github.com/joshmadakor1/Algorithms-Practice) <a> Note : 81%</a>
+  - [Ordonnancement de processus](https://github.com/CerberusX97/Ordonnancement-de-processus) <a> Note : 96%</a>
+  - [Réseau IP](https://github.com/CerberusX97/Reseau-IP) <a> Note : 92%</a>
+  - [Bottin téléphonique](https://github.com/CerberusX97/Bottin-telephonique) <a> Note : 81%</a>
 - <b>Génie logiciel orienté objet (Équipe)</b>
-  - [CNC à panneaux](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <a> Note : 69%</a>
+  - [CNC à panneaux](https://github.com/CerberusX97/CNC-a-panneaux) <a> Note : 69%</a>
 - <b>Gestion de projets informatiques : méthodes et outils (Équipe)</b>
   - Gestion de projet fictif <a> Note : 93%</a>
 
