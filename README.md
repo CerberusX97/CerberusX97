@@ -15,7 +15,7 @@
 
 <h2>👨‍💻 Projets de 4e session (En cours) :</h2>
 
-- <b>Développement d'applications Web</b>
+- <b>[Développement d'applications Web](https://github.com/CerberusX97/uFood</b>
 - <b>Modèles et langages des bases de données pour l'ingénierie</b>
 - <b>Processus du génie logiciel</b>
 
